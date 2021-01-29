@@ -6,3 +6,4 @@ Starter code to learn typescript and play around it's features
 - Build project:  **_npm run build_**
 - Run main file:  **_npm run serve_**
 - Clean build files:  **_npm run clean_**
+- Check lint rules: **_npm run lint_**
