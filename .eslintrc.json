@@ -15,6 +15,6 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "keyword-spacing" :"error"
+        "linebreak-style":"off"
     }
 }
